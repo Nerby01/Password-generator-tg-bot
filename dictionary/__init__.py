@@ -1,0 +1,1 @@
+from dictionary.words_update import words_update

@@ -1,0 +1,7 @@
+mom
+dad
+auto
+gamepad
+monitor
+soup
+interpreter
